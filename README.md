@@ -1,5 +1,5 @@
 # AI-Systems-Development
 Assignments for AI Systems Development course
 
-- NAME: Devansh Srivastava
--  Roll Number: 221020425
+- NAME: Harshit Jaiswal
+-  Roll Number: 221000025
